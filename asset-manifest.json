@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/testimonios/static/css/main.f75a6702.css",
+    "main.js": "/testimonios/static/js/main.bc12f231.js",
+    "static/media/testimonio-ezio.jpg": "/testimonios/static/media/testimonio-ezio.d6cc450267fbf62d3be4.jpg",
+    "static/media/testimonio-rengoku.jpg": "/testimonios/static/media/testimonio-rengoku.818914fb6c70bd081dac.jpg",
+    "index.html": "/testimonios/index.html",
+    "main.f75a6702.css.map": "/testimonios/static/css/main.f75a6702.css.map",
+    "main.bc12f231.js.map": "/testimonios/static/js/main.bc12f231.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f75a6702.css",
+    "static/js/main.bc12f231.js"
+  ]
+}
